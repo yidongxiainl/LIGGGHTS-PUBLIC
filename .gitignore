@@ -1,2 +1,5 @@
 src/Obj_inlmac/
 src/lmp_inlmac
+utils/partgen/partgen
+utils/partgen/partgen.o
+utils/partgen/partgen.ctrl

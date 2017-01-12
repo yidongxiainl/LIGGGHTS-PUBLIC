@@ -1,0 +1,16 @@
+type
+3
+xlo		xhi		dx
+-0.0005		0.0005		0.00025
+ylo		yhi		dy
+-0.0005		0.0005		0.00025
+zlo		zhi		dz
+-0.00075	0.00075		0.00025
+radius		rx		ry		rz
+0.00025		0.0		0.0		0.0
+
+Notation:
+  type = 1 -- string
+         2 -- plate
+         3 -- cylinder
+         4 -- ellipsoid
