@@ -1,5 +1,7 @@
 src/Obj_inlmac/
 src/lmp_inlmac
+src/Obj_openmpi/
+src/lmp_openmpi
 utils/partgen/partgen
 utils/partgen/partgen.o
 utils/partgen/partgen.ctrl
